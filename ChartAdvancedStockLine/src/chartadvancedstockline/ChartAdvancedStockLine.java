@@ -67,6 +67,10 @@ public class ChartAdvancedStockLine extends Application {
     private double y = 10;
 
     private void init(Stage primaryStage) {
+        //---------------------------------------
+        // Bug 342 solved
+        y++;
+        //---------------------------------------
         Group root = new Group();
         primaryStage.setScene(new Scene(root));
         root.getChildren().add(createChart());
