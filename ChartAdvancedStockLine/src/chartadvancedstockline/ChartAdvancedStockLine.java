@@ -93,7 +93,7 @@ public class ChartAdvancedStockLine extends Application {
         lc.setCreateSymbols(false);
         lc.setAnimated(false);
         lc.setLegendVisible(false);
-        lc.setTitle("ACME Company Stock");
+        lc.setTitle("IES Milà Company Stock");
         xAxis.setLabel("Time");
         xAxis.setForceZeroInRange(false);
         yAxis.setLabel("Share Price");
