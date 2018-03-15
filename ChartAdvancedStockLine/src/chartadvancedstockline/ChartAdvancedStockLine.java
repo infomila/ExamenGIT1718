@@ -114,6 +114,10 @@ public class ChartAdvancedStockLine extends Application {
             nextTime();
             plotTime();
         }
+        //---------------------------------------
+        // Bug 444 solved
+        minuteDataSeries.setName("Minute Datxxx");
+        //---------------------------------------
         lc.getData().add(minuteDataSeries);
         lc.getData().add(hourDataSeries);
         return lc;
