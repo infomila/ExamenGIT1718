@@ -5,12 +5,17 @@
  */
 package chartadvancedstockline;
 
+import com.dayofthebeast.Beast;
+
+
 /**
  *
  * @author Dani
  */
 public class Nova {
     public static void Treureun10(String[] args) {
-            System.out.println("La Teoria del Todo");
+		//Més cosetes fetes pel profe diabòlic !!!!!
+
+		System.out.println("La Teoria del Nada");
     }
 }
