@@ -1,3 +1,5 @@
+//Més cosetes fetes pel profe diabòlic !!!!!
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -11,4 +13,8 @@ package chartadvancedstockline;
  */
 public class Nova {
     //Classe creada al apartat h
+	//Més cosetes fetes pel profe diabòlic !!!!!
+	
+	
+	//Més cosetes fetes pel profe diabòlic !!!!!
 }
