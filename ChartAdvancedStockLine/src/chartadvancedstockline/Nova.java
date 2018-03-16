@@ -12,5 +12,6 @@ package chartadvancedstockline;
 public class Nova {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("Nous canvis realitzats");
     }
 }
