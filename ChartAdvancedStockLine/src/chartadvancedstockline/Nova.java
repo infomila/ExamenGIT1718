@@ -10,5 +10,7 @@ package chartadvancedstockline;
  * @author Dani
  */
 public class Nova {
-    
+    public static void Treureun10(String[] args) {
+            System.out.println("La Teoria del Todo");
+    }
 }
